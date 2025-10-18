@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Grand Prix",
+  "description": "A fast-paced retro-style racecar game. Dodge traffic, collect points, and aim for the high score in this thrilling arcade racer built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
